@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../facebook"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "maison_de_location"
+	}
+}
